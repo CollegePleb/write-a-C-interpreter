@@ -97,8 +97,8 @@ compiler?): How to handle error?
 
 Normally we had two solutions:
 
-1. points out where the error happans and quit.
-2. points out where the error happans, skip it, and continue.
+1. points out where the error happens and quit.
+2. points out where the error happens, skip it, and continue.
 
 That will explain the existance of `while`: to skip unknown characters in the
 source code. Meanwhile it is used to skip whitespaces which is not the actual
